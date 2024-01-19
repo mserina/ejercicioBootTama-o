@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+	.container{
+		background-color: navy;
+	}
+.columna1{
+	background-color: red;
+	margin-bottom: 6px;
+}
+
+.columna2{
+	background-color: blue;
+	margin-bottom: 6px;
+	padding-right: 6px;
+}
+
+.columna3{
+	background-color: greenyellow;
+	margin-bottom: 6px;
+}
+
+
+
